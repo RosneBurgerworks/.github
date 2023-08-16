@@ -1,5 +1,5 @@
-<h1 align="center">welcome to [RosneBurgerworks](https://github.com/RosneBurgerworks)</h1>
-<h3 align="center">heart of [Rosnehook](https://github.com/RosneBurgerworks/cathook): We Love Bones!</h3>
+<h1 align="center">welcome to RosneBurgerworks</h1>
+<h3 align="center">heart of Rosnehook: We Love Bones!</h3>
 <h4 align="center">nullworks, but better!</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RosneBurgerworks&label=Profile%20views&color=0e75b6&style=flat" alt="RosneBurgerworks" /> </p>
