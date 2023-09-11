@@ -6,6 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RosneBurgerworks&label=Profile%20views&color=0e75b6&style=flat" alt="RosneBurgerworks" /> </p>
 
+made by someone btw ^
+
 <h3 align="left">contact us:</h3>
 <p align="left">
 <a href="https://discord.gg/scd6GKmYXk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
