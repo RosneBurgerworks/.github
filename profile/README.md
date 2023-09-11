@@ -1,6 +1,8 @@
 <h1 align="center">welcome to RosneBurgerworks</h1>
 <h3 align="center">heart of Rosnehook: We Love Bones!</h3>
-<h4 align="center">nullworks, but better!</h4>
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1139676647407243315/1150613674201985096/IMG_2314.png">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RosneBurgerworks&label=Profile%20views&color=0e75b6&style=flat" alt="RosneBurgerworks" /> </p>
 
